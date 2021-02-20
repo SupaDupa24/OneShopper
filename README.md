@@ -32,7 +32,7 @@
       Use [contentful-cli](https://github.com/contentful/contentful-cli) to import the models from oneshopper.json
 
       ```
-      contentful space --space-id <CONTENTFUL_SPACE_ID> import --content-file oneshopper.json
+      contentful space --space-id 34hg0ta1gmul import --content-file oneshopper.json
       ```
       
       Checkout my below blog how to Import and Export data from ContentFul
